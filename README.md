@@ -33,7 +33,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 8. MongoDB
 9. NodeJS
 #### Things we want to know next**
-1.  I-want to know React JS [1]
+1.  I-want to know React JS [2]
 2.  Node js[2]
 3.  Daemons[1]
 4.  Kubernetes[1]
