@@ -30,6 +30,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. Traefik[1]
 6. webclass[1]
 7. Docker / Kubernetes
+8. MongoDB
 #### Things we want to know next**
 1.  I-want to know React JS [1]
 2.  Node js[2]
