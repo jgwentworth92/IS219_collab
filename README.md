@@ -19,6 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. CSS[1]
 5. putty[1]
 6. Docker Hub[1].
+7. UNIX Commands
 #### Things we don't understand
 1.code with multiple threads[1]
 2. PostgreSQL[1]
